@@ -1,4 +1,9 @@
-# Research Track assignment 2
+# Research Track 2 assignment 1
+
+In this, we have to prepare the documentation of the existing assignment. 
+Here is the link. Please click [here]<https://dikshant-thakur.github.io/Documentation/>, not here. 
+
+
 In this assignment, we have to develop three nodes:
 a. The node implements an action client for setting or cancelling a target (x, y). It utilizes feedback/status from the action server to determine target reaching. Additionally, it publishes robot position and velocity (x, y, vel_x, vel_z) as a custom message, relying on values from the /Odom topic.
 b. A service node that, when called, returns the coordinates of the last target sent by the user.
